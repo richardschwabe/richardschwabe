@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**richardschwabe/richardschwabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+  
+  Youtube videos are currently on hold, but will resume shortly!
+  
+- 💬 Ask me about:
+  
+  Dad, passionate about penetration testing, ethical hacking, gaming and all the nerdy stuff.
+  
+- 📫 How to reach me:
+  
+  Just check my [linktr.ee/richardschwabe](https://linktr.ee/richardschwabe)
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
