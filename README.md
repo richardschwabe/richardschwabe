@@ -4,7 +4,7 @@
   
   Youtube videos are currently on hold, but will resume shortly!
   
-- 💬 Ask me about:
+- 💬 About Me:
   
   Dad, passionate about penetration testing, ethical hacking, gaming and all the nerdy stuff.
   
